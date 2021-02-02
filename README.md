@@ -1,2 +1,6 @@
 # react-native
-Getting started with react 
+React components
+JSX
+Props and States
+Stateless components
+React hooks
