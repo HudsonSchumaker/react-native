@@ -4,4 +4,4 @@
 const Hello = greeting => { greeting }
 
 // Function call
-hello('Hello Wolrd'); // returns Hello World
+hello('Hello Wolrd!'); // returns Hello World!
