@@ -9,7 +9,7 @@ const MyForm = () => {
   }
 
   const handleSubmit = (event) => {
-    alert(`Hello ${user.firstName} ${user.lastName}`);
+    alert('Hello ${user.firstName} ${user.lastName}');
     event.preventDefault();
   }
 
